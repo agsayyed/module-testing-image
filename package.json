@@ -1,9 +1,9 @@
 {
-  "name": "image-module",
+  "name": "module-testing-image",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/agsayyed/image-module.git"
+    "url": "https://github.com/agsayyed/module-testing-image.git"
   },
   "scripts": {
     "release-pr": "dotenv -e .env -- release-please release-pr --token $GITHUB_TOKEN --repo-url $npm_package_repository_url",
